@@ -1,0 +1,41 @@
+/*principal*/
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    font-style:italic ;
+    font-size: 25px;
+    color:#006
+
+
+}
+
+/*resumo*/
+
+#resume{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-style: italic;
+    color:#666666;
+
+}
+
+/*autor*/
+
+#autor{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 20px;
+    color:#666666;
+
+
+}
+
+/*texto*/
+
+#texto{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
